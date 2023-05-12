@@ -1,6 +1,6 @@
 @Library('roboshop') _
 
-env.COMPONENT="nginx"
+env.COMPONENT="frontend"
 nginx()
 
 
